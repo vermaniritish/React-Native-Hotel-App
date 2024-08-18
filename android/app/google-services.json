@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020440294708",
+    "project_id": "destiniaanalyticstest",
+    "storage_bucket": "destiniaanalyticstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020440294708:android:93d15f5e4eee70f506e161",
+        "android_client_info": {
+          "package_name": "com.destina.appdestina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRtKdYmIWTHEYp2s4tXd7ggksYoD7Kik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
